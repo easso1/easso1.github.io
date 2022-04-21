@@ -8,6 +8,7 @@ I'm working on incorporating React.
 ## Plan of Action
 
 - [x] Create Initial Website
+- [ ] Bug Fixes in inital deployment
 - [ ] Understand React Well Enough to Begin aka finish coursework
 - [ ] Begin incorporating React
 - [ ] Test for bugs and get user feedback
