@@ -3,6 +3,8 @@
 
 This is the base for my portfolio project. It's a responsive website[^1]. that I currently have made from HTML/CSS/Bootstrap. 
 
+[My website link is here.](https://easso1.github.io/)
+
 I'm working on incorporating React. 
 
 ## Plan of Action
